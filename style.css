@@ -17,6 +17,11 @@ h1 {
 }
 
 h2 {
+  font-size: 20px;
+  font-weight: 550;
+}
+
+h3 {
     color: #7ECE90;
     font-size: 20px;
     font-weight: 550;
